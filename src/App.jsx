@@ -27,7 +27,7 @@ const siteProps = {
   name: "Srajan Agrawal",
   title: "Web Developer & Content Creator",
   email: "Srajan.Agrawal@studentambassadors.com",
-  gitHub: "SrajanAgrawal",
+  gitHub: "MLSASRAJAN",
   instagram: "",
   linkedIn: "srajan-agrawal-98459321a",
   medium: "",
